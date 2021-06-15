@@ -45,10 +45,10 @@ Users should be able to:
 
 ### Continued development
 
-- I plan on adding more functionalities to the form in the future;
+I plan on adding more functionalities to the form in the future;
 * Add a random password generator to the form.
 * Add a live feedback to the input fields as users type in data.
-* Add a paword reveal and hide functionality.
+* Add a password reveal and hide functionality.
 
 ### Useful resources
 - [Florin Pop](https://codepen.io/FlorinPop17/pen/OJJKQeK)
