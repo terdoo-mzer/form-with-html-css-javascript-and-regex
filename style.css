@@ -23,7 +23,7 @@ body {
 }
 
 h1 {
-    font-size: 2.5em;
+    font-size: 3em;
 }
 
 small {
@@ -38,16 +38,17 @@ small {
 
 .left-div p {
     line-height: 25px;
+	font-weight: bolder;
 }
 
 .right-div {
     width: 500px;
-	max-width: 100%;
+    max-width: 100%;
 }
 
 .form-container {
 	background-color: #fff;
-	border-radius: 5px;
+	border-radius: 10px;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 	overflow: hidden;
 	width: 600px;
@@ -139,6 +140,7 @@ small {
     width: 100%;
     padding: 15px 10px;
     font-family: inherit;
+    font-weight: 700;
     border-radius: 4px;
     border: none;
 }
@@ -147,6 +149,7 @@ small {
     background: hsl(248, 32%, 49%);
     color: #fff;
     margin-bottom: 20px;
+    border-radius: 10px;
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.9);
 }
 
