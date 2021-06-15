@@ -96,8 +96,8 @@ small {
 
 .form-group i {
     position: absolute;
-    bottom: 32px;
-    right: 35px;
+    bottom: 37px;
+    right: 15px;
     color:hsl(0, 100%, 74%);
     font-size: 20px;
     display: none;
