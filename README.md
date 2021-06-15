@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-soluti)
+- Solution URL: [Add solution URL here](https://github.com/terdoo-mzer/form-with-html-css-javascript-and-regex)
 - Live Site URL: [Add live site URL here](https://terdoo-mzer.github.io/form-with-html-css-javascript-and-regex/)
 
 ## My process
